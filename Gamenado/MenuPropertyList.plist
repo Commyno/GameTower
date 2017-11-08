@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Nome</key>
+		<string>Nuova stanza</string>
+		<key>Elementi</key>
+		<array>
+			<dict>
+				<key>PulsanteDefault</key>
+				<string>BottoneCodeProgrammingDefault</string>
+				<key>PulsanteSelected</key>
+				<string>BottoneCodeProgrammingSelected</string>
+				<key>PulsanteDisabled</key>
+				<string>BottoneCodeProgrammingDisabled</string>
+				<key>Tipo</key>
+				<string>Pulsante</string>
+				<key>PosizioneX</key>
+				<string>0.0</string>
+				<key>PosizioneY</key>
+				<string>180</string>
+			</dict>
+			<dict>
+				<key>PulsanteDefault</key>
+				<string>BottoneCodeProgrammingDefault</string>
+				<key>PulsanteSelected</key>
+				<string>BottoneCodeProgrammingSelected</string>
+				<key>PulsanteDisabled</key>
+				<string>BottoneCodeProgrammingDisabled</string>
+				<key>Tipo</key>
+				<string>Pulsante</string>
+				<key>PosizioneX</key>
+				<string>0.0</string>
+				<key>PosizioneY</key>
+				<string>80</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
